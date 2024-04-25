@@ -176,7 +176,7 @@ disp(['Correlations: ' num2str(mean(align,1))]);
 % Figure 3b
 figure
 subplot(1,3,1)
-file = 3;
+file = 34;
 trial_data = loadTDfiles(filenames{file,1},{@getTDidx,{'result','R'}}); 
 trial_data = trim_data(trial_data,'exec');
 [~,~,~] = fCCA(trial_data,struct('array',filenames{file,2},'pca_dims',10,'surrogate_iter',1,'doPlot',true));
