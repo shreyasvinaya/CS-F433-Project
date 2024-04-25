@@ -35,7 +35,7 @@ The results are saved in the `results` folder. The results include the figures i
 - The code is tested on MATLAB R2024a
 - The code is tested on Mac OS Sonoma 14.4.1
 
-Poster Presentation: [Link](https://docs.google.com/presentation/d/1)
+Poster Presentation: [Link](poster.pdf)
 
 ## Contributors:
 - [Shreyas V](https://shreyasvinaya.github.io/folio/)
