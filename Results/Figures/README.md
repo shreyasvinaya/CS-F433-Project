@@ -42,4 +42,4 @@ Similarity between area 2 latent dynamics and each local field potential (LFP) b
 
 ![Figure 7](PNG/7.png)
 (Left & Middle) Correlation between each LFP band and the latent dynamics (coloured markers) during one representative session from each area 2 monkey;
-for Monkeys H and L, respectively. Note the clear frequency-dependent relationship between LFP and latent dynamics. Error bars, median ± s.d. (Right) Comparison between the LFP-latent dynamics correlations during movement execution and the inter-trial period;
+for Monkeys H and L, respectively. Note the clear frequency-dependent relationship between LFP and latent dynamics. Error bars, median ± s.d. (Right) Comparison between the LFP-latent dynamics correlations during movement execution and the Rest period;
