@@ -1,5 +1,5 @@
 # Results
-The results are saved in the `results` folder. The results include the figures in .fig and .png format.
+The results include the figures in .fig and .png format.
 
 ## Figures
 ### Figure 3
@@ -38,4 +38,6 @@ Correlation between each LFP band and the latent dynamics (coloured markers) dur
 ### Figure 7
 Similarity between area 2 latent dynamics and each local field potential (LFP) band during somatosensory feedback processing
 
-![Figure 7](PNG/7B.png)
+![Figure 7](PNG/7.png)
+(Left & Middle) Correlation between each LFP band and the latent dynamics (coloured markers) during one representative session from each area 2 monkey;
+for Monkeys H and L, respectively. Note the clear frequency-dependent relationship between LFP and latent dynamics. Error bars, median ± s.d. (Right) Comparison between the LFP-latent dynamics correlations during movement execution and the inter-trial period;
