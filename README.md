@@ -2,6 +2,7 @@
 **Task**: to reproduce the results of the paper "Local field potentials reflect cortical population dynamics in a region-specific and frequency-dependent manner" by Gallego et al. 2022
 
 This code is Majorly sampled from the original code provided by the authors of the paper. The code is written in MATLAB and uses the TrialData repository. The code is used to reproduce the results
+
 This code also adds `generate_filenames.m` to generate the `filenames.mat` file which is not provided in the original code.
 - The filenames.mat file contains the file names of the data files along with region to consider for the analysis.
 
