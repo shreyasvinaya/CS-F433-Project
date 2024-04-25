@@ -38,10 +38,10 @@ The results are saved in the `results` folder. The results include the figures i
 Poster Presentation: [Link](Poster.pdf)
 
 ## Contributors:
-- [Shreyas V](https://shreyasvinaya.github.io/folio/)
-- Garvit Arora
-- Shreyash Patel
-- Abhrajeet Mukherjee
+- [Shreyas V](https://shreyasvinaya.github.io/folio/) (2020B2A71350G)
+- Garvit Arora (2020B2A72113G)
+- Shreyash Patel (2020B5A71157G)
+- Abhrajeet Mukherjee (2020B5A70872G)
 
 ## Supervisor:
 - [Basabdatta Sen Bhattacharya](https://www.bits-pilani.ac.in/goa/basabdatta-bhattacharya/)
