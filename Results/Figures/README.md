@@ -4,7 +4,9 @@ The results include the figures in .fig and .png format.
 ## Figures
 ### Figure 3
 Similarity between primary motor cortex (M1) latent dynamics and each local field potential (LFP) band during movement execution
-![Figure 3](PNG/3A.png)
+
+![Figure 3A](PNG/3A.png)
+
 Left: Example M1 latent dynamics during four reaches to different targets (direction indicated by the arrows above each column); figure shows top
 10 dimensions of the latent dynamics. 
 Middle: Example LFP power in each of the nine bands we study during the same three trials. 
